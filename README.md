@@ -1,4 +1,4 @@
-# Creted using React + Vite
+# Created using React + Vite
 
 -> First clone the project in your system by using git clone command
 
